@@ -12,7 +12,7 @@ Academic project developed for the "Client-server database applications" course.
 
 ## Database Schema
 
-![DB Diagram](docs/db_diagram.jpg)
+![DB Diagram](docs/db_diagram.png)
 
 ### Core Entities:
 
