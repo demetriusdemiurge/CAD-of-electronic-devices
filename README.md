@@ -23,8 +23,8 @@ RU:
 7. Инженеры
 
 ## Технологический стек
-Backend: ASP.NET Core
-СУБД: SQL Server
+- Backend: ASP.NET Core
+- СУБД: SQL Server
 
 EN:
 
@@ -50,5 +50,5 @@ Academic project developed for the Client-server database applications course. I
 7. Engineers
 
 ## Tech stack
-Server part: ASP.NET core.
-DBMS: SQL server
+- Server part: ASP.NET core.
+- DBMS: SQL server
