@@ -56,5 +56,5 @@ Academic project developed for the Client-server database applications course. I
 7. Engineers
 
 ## Tech stack
-- Server part: ASP.NET core.
+- Backend: ASP.NET core.
 - DBMS: SQL server
