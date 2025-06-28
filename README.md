@@ -1,5 +1,6 @@
 # Система управления разработкой электронных устройств/Electronic Device Management System
 RU:
+
 Учебный проект, разработанный для курса "Клиент-серверные приложения баз данных". Реализация информационной системы для САПР электронных устройств на C#/.NET.
 
 ## Основные возможности
@@ -26,6 +27,7 @@ Backend: ASP.NET Core
 СУБД: SQL Server
 
 EN:
+
 Academic project developed for the Client-server database applications course. Implementation of an information system for CAD of electronic devices in C#/.NET.
 
 ## Key features
