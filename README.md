@@ -11,7 +11,7 @@ RU:
 - Управление командой инженеров
 
 ## Схема базы данных
-https://docs/db_diagram.png
+![DB Diagram](docs/db_diagram.png)
 
 ## Основные сущности:
 1. Заказы
@@ -38,7 +38,7 @@ Academic project developed for the Client-server database applications course. I
 - Management of a team of engineers
 
 ## Database diagram
-https://docs/db_diagram.png
+![DB Diagram](docs/db_diagram.png)
 
 ## Key findings:
 1. Orders
