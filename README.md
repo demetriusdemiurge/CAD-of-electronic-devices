@@ -10,6 +10,9 @@ RU:
 - База данных электронных компонентов и производителей
 - Управление командой инженеров
 
+## Пользовательский интерфейс
+![UI](docs/ui.png)
+
 ## Схема базы данных
 ![DB Diagram](docs/db_diagram.png)
 
@@ -36,6 +39,9 @@ Academic project developed for the Client-server database applications course. I
 - Control of the solution of devices, circuits and printed circuit boards.
 - Database of electronic components and manufacturers
 - Management of a team of engineers
+
+## UI
+![UI](docs/ui.png)
 
 ## Database diagram
 ![DB Diagram](docs/db_diagram.png)
